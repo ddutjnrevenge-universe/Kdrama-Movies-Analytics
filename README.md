@@ -1,7 +1,4 @@
 # Kdrama-Movies-Analytics
-**Programming for Data Science and Visualization – Assignment 1 Student Name: Tran Nguyen Hanh Nguyen**
-
-**Student ID: 220184**
 
 **Source:[ Kaggle](https://www.kaggle.com/datasets/chanoncharuchinda/korean-drama-2015-23-actor-and-reviewmydramalist/data)**
 
